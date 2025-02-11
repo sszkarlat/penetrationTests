@@ -1,8 +1,12 @@
-# Lab 1
-Celem pierwszego laboratorium było zrozumienie procesu planowania testów penetracyjnych i nabycie umiejętności definiowania zakresu testu w zgodzie z wymaganiami biznesowymi.
-Dla wybranego scenariusza należało wykonać:
-* dokument planowania testu penetracyjnego;
-* RoE (__Rules of Engagement__) zawierający zakres testów, metodologię, harmonogram i zarządzanie ryzykiem.
+# Lab 6
+Laboratorium 6 zostało podzielone na trzy zadania.
 
-Dodatkowym wymogiem było wykonanie schematu środowiska wirtualizycyjnego w Microsoft Visio, z zaznaczeniem elementów: adresacji IP, routera, nazwy systemów operacyjnych, połączenie do publicznej sieci Internet.
-Kolejno należało wykonać program w języku Python, który miał skanować sieć prywatną w poszukiwaniu maszyny (adres IP) z otwartym portem SSH (nr portu: 22).
+## Zadanie 1
+Instalacja narzędzia OWASP ZAP i test procesu logowania na wybranej witrynie internetowej ze szczegółowym wyjaśnieniem wszystkich elementów Request’a.
+
+## Zadanie 2
+Utworzenie skryptu w języku Python (biblioteka zapv2) przeprowadzającego automatyczny skan podatności DVWA/sqli pod kątem SQL Injection oraz generowanie raportu w formacie html przy pomocy narzędzia ZAP. 
+Do konfiguracji ZAP należało wygenrować klucz API, z kolei kod musiał zostać podzielony na dwie funkcje: skanowanie oraz analiza_wynikow.
+
+## Zadanie 3 
+Przystosowanie narzędzia open-webui z wykorzystaniem modelu językowego AI - llama3.1:8b, do uruchomienia skryptu z Zadania 2 np. po wprowadzeniu przez użytkownika wyrażenia: _skanuj aplikację webową lub _skanuj aplikację webową <parametr>_, gdzie parametrem jest przekazany do skryptu adres URL.

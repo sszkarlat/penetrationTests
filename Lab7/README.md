@@ -1,8 +1,8 @@
-# Lab 1
-Celem pierwszego laboratorium było zrozumienie procesu planowania testów penetracyjnych i nabycie umiejętności definiowania zakresu testu w zgodzie z wymaganiami biznesowymi.
-Dla wybranego scenariusza należało wykonać:
-* dokument planowania testu penetracyjnego;
-* RoE (__Rules of Engagement__) zawierający zakres testów, metodologię, harmonogram i zarządzanie ryzykiem.
+# Lab 7
+Laboratorium numer 7 składało się z dwóch części.
 
-Dodatkowym wymogiem było wykonanie schematu środowiska wirtualizycyjnego w Microsoft Visio, z zaznaczeniem elementów: adresacji IP, routera, nazwy systemów operacyjnych, połączenie do publicznej sieci Internet.
-Kolejno należało wykonać program w języku Python, który miał skanować sieć prywatną w poszukiwaniu maszyny (adres IP) z otwartym portem SSH (nr portu: 22).
+## Część 1 - Raport z testów penetracyjnych
+Zadaniem to polegało na analizię wyników testów penetracyjncyh oraz przygotowanie raportu dla klientów.
+
+## Część 2 - Wazuh
+Część 2 polegała na zapoznaniu się oraz wykonaniu konfiguracji systemu do monitorowania logów **Wazuh**. Dodatkowo należało zaprezentować działanie tego rozwiązania poprzez wykonanie przykładowego wywołania alertu (wykonanie dowolnej akcji na koncówce Wazuha).
