@@ -1,0 +1,2 @@
+# Lab 2
+Celem drugiego laboratorium było poznanie kolejnego ważengo aspektu testów penetracyjncyh, jakim jest pasywne zbieranie informacji na temat wybranej przez siebie polskiej firmy (**Empik**). Wykorzystano technikę OSINT (*Open Source Intelligence*) oraz inne narzędzia pasywne, między innymi narzędzia dostępne domyślnie w systemie Kali Linux (The Harvester, whois, nslookup, dig), Google dorking, narzędzie Shodan. Ponadto poddano szczegółowej analizę witrynę internetową oraz media społecznościowe. 
