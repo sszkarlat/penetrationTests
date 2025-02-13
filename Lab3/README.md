@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 3 
 Trzecie laboratorium składało się z trzech zadań. 
 
 ## Zadanie 1 - Exiftool

@@ -1,2 +1,2 @@
-# Testy penetracyjne
-Podczas V semestru miałem możliwość uczestniczyć w zajęciach poświęconych tematyce testów penetracyjnych. Repozytorium to zawiera wszystkie raporty, pliki oraz skrypty wykonane w ramach realizacji poszczególnych zadań kursu. Laboratoria oraz projekt, pozwalały rozwinąć umiejętność pracy w grupie, były bowiem realizowane w zespołach trzyosobowych.
+# Testy penetracyjne :triangular_flag_on_post:
+Podczas V semestru studiów miałem możliwość uczestniczyć w zajęciach poświęconych tematyce testów penetracyjnych. Repozytorium to zawiera wszystkie raporty, pliki oraz skrypty wykonane w ramach realizacji poszczególnych zadań kursu. Laboratoria oraz projekt, pozwalały rozwinąć umiejętność pracy w grupie, były bowiem realizowane w zespole trzyosobowym.
