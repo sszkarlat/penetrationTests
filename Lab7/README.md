@@ -1,4 +1,4 @@
-# Lab 7
+# Lab 7 :unlock:
 
 Laboratorium numer 7 składało się z dwóch części.
 

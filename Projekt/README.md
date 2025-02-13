@@ -1,4 +1,4 @@
-# Projekt
+# Projekt :bomb:
 
 Tematem projektu było przeprowadzenie pełnego testu penetracyjnego na wybranym systemie.
 
